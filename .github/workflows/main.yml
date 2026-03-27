@@ -35,7 +35,7 @@ jobs:
         run: |
           echo "Copiando archivos de /dist al servidor ficticio..."
           sleep 1
-          echo "🎉 Despliegue exitoso"
+          echo "Despliegue exitoso. 🎉 "
 
       - name: Publicar artefacto
         uses: actions/upload-artifact@v4
