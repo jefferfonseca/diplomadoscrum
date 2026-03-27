@@ -1,5 +1,4 @@
 name: Demo CI/CD Visual
-
 on:
   push:
     branches:
